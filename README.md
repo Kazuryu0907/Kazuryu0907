@@ -32,5 +32,6 @@ Team:**もふしそかに**  Title:**今日どこからどれのる？**
 ## [Security miniCamp in Hokkaido 2024](https://www.security-camp.or.jp/minicamp/hokkaido2024.html)
 ## [Scientific Game Jam 2024 Tokyo](https://jp-minerals.org/scientificgamejam/jp/)
 ![](https://jp-minerals.org/scientificgamejam/img/header-SGJ-Japan.png)
+### ゲームプレイ賞受賞
 Team:**Altamagnet**  Game:**ピカマグネ**  
 [Game URL](https://kazuryu.itch.io/pika-magne)
