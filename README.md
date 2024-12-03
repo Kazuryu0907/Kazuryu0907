@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://user-images.githubusercontent.com/44780846/130186001-99c73b15-44a9-48fc-bab7-e86260e0e15d.png)  
 [Repository](https://github.com/jigintern/2021-summer-1-a)
 ## [Open Hack U 2024 Tokyo vol.3](https://hacku.yahoo.co.jp/2024/)
-![](https://s.yimg.jp/images/hacku/hacku2024/open/images/addition/open2024_passmarket_tokyo3.png)
+![](https://s.yimg.jp/images/hacku/hacku2024/open/images/addition/open2024_passmarket_tokyo3.png)  
 Team:**もふしそかに**  Title:**今日どこからどれのる？**  
 [Site URL](https://hack-u-2024.vercel.app/) [Repository](https://github.com/Kazuryu0907/HackU_2024)
 ## [Security miniCamp in Hokkaido 2024](https://www.security-camp.or.jp/minicamp/hokkaido2024.html)
