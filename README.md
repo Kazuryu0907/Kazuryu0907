@@ -28,11 +28,12 @@ https://github.com/Kazuryu0907/Moca/assets/41988990/ddfe44ad-627e-456f-b152-b375
 ## [Open Hack U 2024 Tokyo vol.3](https://hacku.yahoo.co.jp/2024/)
 ![](https://s.yimg.jp/images/hacku/hacku2024/open/images/addition/open2024_passmarket_tokyo3.png)  
 Team:**もふしそかに**  Title:**今日どこからどれのる？**  
-[Site URL](https://hack-u-2024.vercel.app/) [Repository](https://github.com/Kazuryu0907/HackU_2024)
+[Site URL](https://hack-u-2024.vercel.app/)  
+[Repository](https://github.com/Kazuryu0907/HackU_2024)
 ## [Security miniCamp in Hokkaido 2024](https://www.security-camp.or.jp/minicamp/hokkaido2024.html)
 ## [Scientific Game Jam 2024 Tokyo](https://jp-minerals.org/scientificgamejam/jp/)
 ![](https://jp-minerals.org/scientificgamejam/img/header-SGJ-Japan.png)
 ### ゲームプレイ賞受賞
 Team:**Altamagnet**  Game:**ピカマグネ**  
+[Game URL](https://kazuryu.itch.io/pika-magne)  
 [Repository](https://github.com/Kazuryu0907/SGJ)
-[Game URL](https://kazuryu.itch.io/pika-magne)
