@@ -34,4 +34,5 @@ Team:**もふしそかに**  Title:**今日どこからどれのる？**
 ![](https://jp-minerals.org/scientificgamejam/img/header-SGJ-Japan.png)
 ### ゲームプレイ賞受賞
 Team:**Altamagnet**  Game:**ピカマグネ**  
+[Repository](https://github.com/Kazuryu0907/SGJ)
 [Game URL](https://kazuryu.itch.io/pika-magne)
