@@ -25,7 +25,7 @@ https://github.com/Kazuryu0907/Moca/assets/41988990/ddfe44ad-627e-456f-b152-b375
 ### Stream Archive
 [GracesBlazeCup#8 本配信【Vtuber限定ロケットリーグ大会】](https://www.youtube.com/watch?v=7LQ8lHAPrzM)  
 # Participated
-## [Jig.jp internship 2021](https://fukuno.jig.jp/3309) as Backend
+## [jig.jp internship 2021](https://fukuno.jig.jp/3309) as Backend
 ![](https://user-images.githubusercontent.com/44780846/130186001-99c73b15-44a9-48fc-bab7-e86260e0e15d.png)  
 [Repository](https://github.com/jigintern/2021-summer-1-a)
 ## [Open Hack U 2024 Tokyo vol.3](https://hacku.yahoo.co.jp/2024/)
