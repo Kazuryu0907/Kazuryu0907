@@ -1,5 +1,5 @@
 # About Me
-I'm kazuryu. I'm 22 yo and student. I'm M1 at OMU. I like coding.
+I'm kazuryu. I'm 23 yo and student. I'm M1 at OMU. I like coding.
 
 # My Status
 ![Kazuryu0907's Stats](https://github-readme-stats.vercel.app/api?username=Kazuryu0907&theme=vue&show_icons=true&hide_border=true&count_private=true)  
